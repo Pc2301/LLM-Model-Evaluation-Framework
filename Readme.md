@@ -4,18 +4,18 @@ A comprehensive framework for evaluating Large Language Model (LLM) responses ba
 
 ## Features
 
-- **🚀 Interactive Streamlit Demo**: User-friendly web interface for testing and comparing LLM responses
-- **🔧 REST API**: Easy-to-use HTTP endpoints for programmatic evaluation
-- **📊 Multiple Evaluation Criteria**: 
+- Interactive Streamlit Demo**: User-friendly web interface for testing and comparing LLM responses
+- REST API**: Easy-to-use HTTP endpoints for programmatic evaluation
+- Multiple Evaluation Criteria**: 
   - **Relevance**: How well the answer addresses the query
   - **Accuracy**: Factual correctness and precision
   - **Coherence**: Logical flow and structure
   - **Completeness**: Comprehensive coverage of the topic
-- **🔍 Comparison Mode**: Side-by-side evaluation of two different answers
-- **📈 Visual Analytics**: Interactive radar charts and comparison visualizations
-- **🎯 Flexible Input**: Accepts query-answer pairs with optional context and expected answers
-- **📋 Detailed Scoring**: Provides both overall scores and detailed breakdowns
-- **📚 Automatic Documentation**: FastAPI generates interactive API docs
+- Comparison Mode**: Side-by-side evaluation of two different answers
+- Visual Analytics**: Interactive radar charts and comparison visualizations
+- Flexible Input**: Accepts query-answer pairs with optional context and expected answers
+- Detailed Scoring**: Provides both overall scores and detailed breakdowns
+- Automatic Documentation**: FastAPI generates interactive API docs
 
 ## Quick Start
 
